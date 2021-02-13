@@ -1,0 +1,5 @@
+# ignore build files
+**/out/
+# ignore project files
+**/.vscode/
+
